@@ -9,9 +9,7 @@ function App() {
      <>
       Debounced value is {debouncedValue} <br />
       <input type='text' onChange={e=> setValue(e.target.value)} />
-     
-    
-    
+         
     </>
   )
 }
