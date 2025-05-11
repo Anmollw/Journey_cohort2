@@ -1,1 +1,1 @@
-{"root":["./src/a.ts","./src/interface.ts","./src/legaluser.ts"],"version":"5.8.3"}
+{"root":["./src/a.ts","./src/array.ts","./src/enum.ts","./src/generics.ts","./src/interface.ts","./src/interfaces_implement.ts","./src/intersection.ts","./src/legaluser.ts","./src/union.ts"],"version":"5.8.3"}
